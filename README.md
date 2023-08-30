@@ -4,7 +4,8 @@
   <br>
 </h1>
 
-<h3 align="center">FullStack Developer</h3>
+<h3 align="center"><div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2f80ed&center=true&vCenter=true&width=435&lines=I%60m++your+future+full+stack+developer" alt="Typing SVG" /></a>
+</h3>
 
 <p align="center">
   <a href="mailto:gromadskiyigor@gmail.com">📧 Email</a> |
