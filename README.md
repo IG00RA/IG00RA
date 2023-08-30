@@ -62,7 +62,8 @@ add,remove/filter contacts.
 <br>
 
 <p align="center">
-  <img src="./img/Projects.jpg" alt="Projects Screenshot">
+<img src="./img/Projects.jpg" alt="Projects Screenshot" width="500">
+
 </p>
 <br>
 <h2 align="center">&#128293; My Stats :</h2>
