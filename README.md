@@ -18,26 +18,20 @@
 
 <br>
 
-<p align="center">
-  <img src="profile.jpg" alt="Ihor Hromadskiy">
-</p>
-
-<br>
-
 <h2 align="center">Skills</h2>
 
 <p align="center">
   <strong>Frontend</strong> |
   <strong>Backend</strong> |
-  <strong>Database</strong> |
+  <strong>MongoDb</strong> |
   <strong>Tools</strong>
 </p>
 
 <p align="center">
-  <img src="frontend-icon.png" alt="Frontend Skills" width="100">
-  <img src="backend-icon.png" alt="Backend Skills" width="100">
-  <img src="database-icon.png" alt="Database Skills" width="100">
-  <img src="tools-icon.png" alt="Tools" width="100">
+  <img src="./img/frontend-icon.png" alt="Frontend Skills" width="100">
+  <img src="./img/backend-icon.png" alt="Backend Skills" width="100">
+  <img src="./img/mongodb.png" alt="Database Skills" width="100">
+  <img src="./img/deployment.png" alt="Tools" width="100">
 </p>
 
 <br>
@@ -45,37 +39,46 @@
 <h2 align="center">Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/yourusername/taskmaster-app"><strong>TaskMaster App</strong></a> -
+  <a href="https://ig00ra.github.io/project-team_5_frontend"><strong>GooseTrack App</strong></a> -
   Web application for task management using a calendar and statistics.
   <br>
-  <a href="https://github.com/yourusername/e-commerce-platform"><strong>E-Commerce Platform</strong></a> -
-  FullStack e-commerce platform with a user-friendly interface and optimized performance.
+  <a href="https://ig00ra.github.io/mi-6/"><strong>MiMiNo-Restaurant-hotel complex</strong></a> -
+  Modern website with a large number of modal windows
+and responsive layout.
+<br>
+  <a href="https://ig00ra.github.io/goit-markup-hw-08"><strong>Web-Studio</strong></a> -
+  Easy website with responsive layout, Mobile menu,
+modal window and attractive design.
+<br>
+  <a href="https://julieshapo.github.io/5th-element-filmoteka"><strong>5th element Filmoteka</strong></a> -
+  An easy-to-use website that will quickly help
+you find your favorite movie
+<br>
+  <a href="https://ig00ra.github.io/goit-react-hw-08-phonebook"><strong>Phonebook</strong></a> -
+  A simple phonebook whith Swagger API register/log-in,
+add,remove/filter contacts.
 </p>
 
 <br>
 
 <p align="center">
-  <img src="projects-screenshot.png" alt="Projects Screenshot">
+  <img src="./img/Projects.jpg" alt="Projects Screenshot">
 </p>
+<br>
+<h2 align="center">&#128293; My Stats :</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IG00RA&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IG00RA)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IG00RA)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
 <h2 align="center">Let's Connect</h2>
 
 <p align="center">
-  <a href="mailto:johndoe@example.com">📧 johndoe@example.com</a> |
-  <a href="https://www.linkedin.com/in/johndoe">💼 LinkedIn</a> |
-  <a href="https://www.johndoe.dev">🌐 Website</a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="footer-icon.png" alt="Footer Icon">
-</p>
-
-<br>
-
-<p align="center">
-  <sub>Project licensed under the <a href="LICENSE">MIT License</a></sub>
+  <a href="mailto:gromadskiyigor@gmail.com">📧gromadskiyigor@gmail.com</a> |
+  <a href="https://www.linkedin.com/in/igoora">💼 LinkedIn</a> |
+  <a href="https://www.Igoora.pp.ua">🌐 Website</a>
 </p>
